@@ -18,3 +18,4 @@ Las tareas se guardan en un archivo local (`tareas.txt`) para mantener la lista 
    ```bash
    git clone https://github.com/maxwellgr/to_do_list.git
    cd to_do_list
+> Proyecto actualizado 🚀
