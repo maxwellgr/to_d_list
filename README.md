@@ -1,5 +1,9 @@
 # 📝 To-Do List en Python (CLI)
 
+![Python](https://img.shields.io/badge/Python-3.x-informational)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 Aplicación de consola sencilla para gestionar tareas, desarrollada en **Python 3**.  
 Las tareas se guardan en un archivo local (`tareas.txt`) para mantener la lista entre ejecuciones.
 
@@ -18,4 +22,4 @@ Las tareas se guardan en un archivo local (`tareas.txt`) para mantener la lista 
    ```bash
    git clone https://github.com/maxwellgr/to_do_list.git
    cd to_do_list
-> Proyecto actualizado 🚀
+
